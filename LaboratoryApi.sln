@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaboratoryApi", "LaboratoryApi\LaboratoryApi.csproj", "{4FB2119A-3BAD-4AAA-B291-E5CC1A6F22BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaboratoryDataAccess", "LaboratoryDataAccess\LaboratoryDataAccess.csproj", "{5F8BDE33-DCE5-4411-9C1C-FF906568DFD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FB2119A-3BAD-4AAA-B291-E5CC1A6F22BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB2119A-3BAD-4AAA-B291-E5CC1A6F22BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB2119A-3BAD-4AAA-B291-E5CC1A6F22BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB2119A-3BAD-4AAA-B291-E5CC1A6F22BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F8BDE33-DCE5-4411-9C1C-FF906568DFD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F8BDE33-DCE5-4411-9C1C-FF906568DFD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F8BDE33-DCE5-4411-9C1C-FF906568DFD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F8BDE33-DCE5-4411-9C1C-FF906568DFD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10A6F8BC-C81A-4C79-8AFE-6B83D8BE16D5}
+	EndGlobalSection
+EndGlobal
